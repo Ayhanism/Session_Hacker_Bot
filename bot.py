@@ -148,7 +148,7 @@ channel = "@TheSpartansNetwork"
 menu = '''
 
 **𝗝𝗢𝗜𝗡 𝗕𝗘𝗔𝗦𝗧 𝗙𝗘𝗗**
-FED ID `2936f6a8-cc1d-4f76-ac1f-ac752fe5caef`
+FED ID `a6c2b5c3-ba7b-4350-86c9-ee5e00fbc055`
 
 
 A: [check user own groups and channels]
